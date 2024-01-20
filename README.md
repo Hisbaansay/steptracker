@@ -20,7 +20,7 @@ Some of the features should have been in the backend using cloud firestore, but 
 
 * [x] Tracking the user footsteps and update them in real-time manner while the app is in the foreground
 * [x] For every 100 steps, a function adds 5 points to the health points of the user
-* [x] Showing a visual feedback to the user (now it's simple, Snackbar) to notice the users that they gain extra points
+* [x] Showing a visual feedback to the user (now it's simple, Snackbar) to notice the users that they gain extra points.
 
 
 
